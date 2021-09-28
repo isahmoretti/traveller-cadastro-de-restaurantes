@@ -1,0 +1,1 @@
+Formulário de cadastro de restaurantes para a seção de Gastronomia do portal Traveller. O administrador tem como cadastrar os dados do estabelecimento e essas informações são organizadas numa tabela. Há uma opção para excluir restaurante, caso seja necessário.
